@@ -98,7 +98,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Feel free to reach out if you have any questions or if you are interested in working together.
 
 - **Email**: badalpatel31628@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
+- **LinkedIn**:(https://www.linkedin.com/in/badal-patel-7062a6313/)
+- **GitHub**: (https://github.com/badalpatel1274)
 
 Thank you for visiting my portfolio website repository!
